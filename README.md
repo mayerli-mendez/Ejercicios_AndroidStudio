@@ -1,1 +1,3 @@
-# Ejercicios_AndroidStudio
+# Ejercicio6
+Intruccion.
+# Desarrollo
