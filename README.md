@@ -1,3 +1,3 @@
-# Ejercicio6
+# Ejercicio26
 Instruccion.
 # Desarrollo
