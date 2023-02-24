@@ -1,6 +1,7 @@
 # Ejercicio26 Reproducción de audio (archivo localizado en internet)
 https://github.com/ChristianPPP/Ejercicio-26
-Instruccion.
+
+# Instruccion.
 
 ![image](https://user-images.githubusercontent.com/74626089/221087311-439ff416-1b83-4784-a89b-681bfc85563c.png)
 
