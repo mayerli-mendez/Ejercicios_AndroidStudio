@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio41StringsXML</string>
+    <string name="app_name2">Ejercicio41StringsXML</string>
+    <string name="programador">Leonel Molina</string>
+    <string name="add">Sumar</string>
+    <string name="sub">Restar</string>
+    <string name="operate">Operar</string>
+    <string name="firstValue">Primer Valor</string>
+    <string name="secondValue">Segundo Valor</string>
+    <string name="end">Finalizar Programa</string>
+</resources>
