@@ -11,10 +11,11 @@ Se realiza la inserción de un control de tipo spinner que se encuentra en la pe
 
 Una vez definida la interfaz, se realiza la funcionalidad como se observa en las siguientes imagen. 
  
- ![Uploading image.png…]()
+ ![image](https://user-images.githubusercontent.com/74840012/221445229-749dfa46-4723-4a35-9026-131524d162b2.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/74840012/221445237-85c756a2-579e-4dd5-b96a-dbed8b171aff.png)
 
+ 
 Finalmente se obtiene el resultado en el emulador como se observa en la siguiente imagen.
 
 
