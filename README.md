@@ -6,7 +6,7 @@ El programa debe permitir:
 3 - Consulta por la descripción.
 4 - Borrado de un articulo ingresando su código.
 4 - Modificación de la descripción y el precio.
-# Implementacion
+# Implementación
 
 URL :  https://github.com/Leoni23/proyecto16.git
 
