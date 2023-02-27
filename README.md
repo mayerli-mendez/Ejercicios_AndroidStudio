@@ -1,3 +1,3 @@
 # Ejercicio31
 Instruccion.
-# Desarrollo
+# Implementación
