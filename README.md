@@ -2,7 +2,7 @@
 
 <li/>Ejercicios del manual básico de Android asignados
 
-<li/> [Ejercicio 6](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio6).
+[Ejercicio 6](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio6).
 [Ejercicio 11](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio11).
 [Ejercicio 16](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio16).
 [Ejercicio 21](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio21).
