@@ -1,5 +1,6 @@
 # Ejercicio 41 - Archivo strings.xml
-
+Crear un proyecto que solicite la carga de dos valores. Mediante dos RadioButton permitir seleccionar si queremos sumar o restar. Cuando se presione un botón mostrar en un TextView el resultado de la operación.
+# Implementación
 El archivo strings.xml se utiliza para almacenar todas las constantes de cadenas de caracteres que se necesitan en un programa, por ejemplo: las etiquetas de los objetos Button, los textos de los controles TextView y todos los controles que muestran un texto en el dispositivo.
 
 La idea fundamental es tener todos los mensajes que muestra nuestra aplicación en un archivo, el strings.xml. Una de las ventajas que presenta agrupar los textos en este archivo es la posibilidad de implementación de múltiples idiomas en la aplicación.
