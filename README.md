@@ -3,12 +3,13 @@
 <li/>Ejercicios del manual básico de Android asignados
 
 Integrantes:
-•	Guañuna Steven 
-•	Guambo Leoni 
-•	Méndez Mayerli
-•	Molina Leonel 
-•	Ortiz Jorge 
-•	Palacios Cristhian 
+
+<li/>Guañuna Steven 
+<li/>	Guambo Leoni 
+<li/>Méndez Mayerli
+<li/>Molina Leonel 
+<li/>Ortiz Jorge 
+<li/>Palacios Cristhian 
 
 
 [Ejercicio 6](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio6).
