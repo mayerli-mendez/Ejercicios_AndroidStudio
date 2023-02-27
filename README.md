@@ -1,6 +1,6 @@
 # Ejercicio46 Componente ActionBar (Ocultarlo y mostrarlo)
 
-![image](https://user-images.githubusercontent.com/74626089/221091173-4e6029fe-8f7f-4baa-a8f8-07ec431faf15.png)
+Confeccionar una aplicación  que mediante dos botones se permita ocultar el ActionBar o mostrarlo. Disponer tres opciones en el menú desplegable del ActionBar.
 
 # Implementación
 URL : https://github.com/ChristianPPP/Ejercicio-46
