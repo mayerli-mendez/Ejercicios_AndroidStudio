@@ -1,13 +1,9 @@
 # Ejercicio46 Componente ActionBar (Ocultarlo y mostrarlo)
 
-https://github.com/ChristianPPP/Ejercicio-46
-
-# Instruccion.
-
 ![image](https://user-images.githubusercontent.com/74626089/221091173-4e6029fe-8f7f-4baa-a8f8-07ec431faf15.png)
 
-
-# Desarrollo
+# Implementación
+URL : https://github.com/ChristianPPP/Ejercicio-46
 
 Se crea la actividad principal para diseñar la interfaz de usuario.
 
