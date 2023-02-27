@@ -1,5 +1,3 @@
-# Ejercicios_AndroidStudio
-
 # Integrantes
 
 <li/>Guañuna Steven 
@@ -9,8 +7,9 @@
 <li/>Ortiz Jorge 
 <li/>Palacios Cristhian 
 
+# Ejercicios
 
-Ejercicios del manual básico de Android asignados
+Ejercicios del manual básico de Android asignados.
 
 [Ejercicio 6](https://github.com/mayerli-mendez/Ejercicios_AndroidStudio/tree/Ejercicio6).
 <br/>
