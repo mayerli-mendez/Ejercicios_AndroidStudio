@@ -21,7 +21,7 @@ Typeface permite incorporar una fuente externa desde la carpeta assets, solo es 
 
 ![image](https://user-images.githubusercontent.com/74793607/222181992-9ecbb1a5-e68a-4513-b2e9-77d5dfe7d84b.png)
 
-Por ultimo se dibuja el texto usando la funcion drawText en donde se pasa los siguientes parametros:
+Por ultimo se dibuja el texto usando el metodo drawText en donde se pasa los siguientes parametros:
 - string
 - posición inicial en x
 - posición inicial en y 
