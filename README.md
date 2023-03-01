@@ -5,7 +5,8 @@ Confeccionar una aplicacion e incorporar fuentes True Type externas. Para ello i
 Crear un nuevo proyecto en Android Studio en lenguaje java.
 
 
-Crear una nueva carpeta con el nombre de assets y añadir el tipo de fuente para el programa. En este caso es "CarrickGroovy.ttf"
+Crear una nueva carpeta con el nombre de assets y añadir el tipo de fuente para el programa. En este caso es "CarrickGroovy.ttf".
+
 ![image](https://user-images.githubusercontent.com/74793607/222177628-de2716cd-5144-4c00-aab3-75593215f4e8.png)
 
 
