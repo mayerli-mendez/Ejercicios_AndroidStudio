@@ -16,7 +16,7 @@ Crear una nueva funcion onCreate en donde se inicializa, define las variables y 
 
 ![image](https://user-images.githubusercontent.com/74793607/222188988-2fc2395c-6c49-4f23-832f-f3ce12395943.png)
 
-En el primer boton se añade un listener y se define toda la logica para dibujar el canvas y dibujar las lineas mediante la funcion drawLine que necesita los siguientes parametros:
+En el primer boton se añade un listener y se define toda la logica para dibujar el canvas y dibujar las lineas mediante el metodo drawLine que necesita los siguientes parametros:
 - posición inicial en x 
 - posición inicial en y
 - ancho
