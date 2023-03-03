@@ -5,7 +5,7 @@ El programa debe permitir:
 <li/>Consulta por el codigo.
 <li/>Consulta por la descripción.
 <li/>Borrado de un articulo ingresando su código.
-<li/>Modificación de la descripción y el precio.
+<li/>Modificación de la descripción y el precioj.
 # Implementación
 
 URL :  https://github.com/Leoni23/proyecto16.git
