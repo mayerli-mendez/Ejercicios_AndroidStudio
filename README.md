@@ -8,6 +8,12 @@ archivo XML que define un tema de aplicación para el framework Android. El tema
 
 ![image](https://user-images.githubusercontent.com/74801652/222604838-cae942c5-4bc7-43ba-852a-13ddec9426fe.png)
 
+En el método "onCreate()", se establece la vista principal de la actividad se crea una referencia a un objeto "EditText" llamado "et1" que se utiliza para obtener el valor de la entrada de texto del usuario.
+
+El método "verificar()" se llama cuando el usuario hace clic en un botón de la interfaz de usuario. Este método recupera el valor de la entrada de texto del usuario, lo compara con una cadena de texto específica ("abc123") y si coinciden, se inicia otra actividad llamada "Actividad2". Si no coinciden, se muestra un mensaje de notificación de error en la pantalla mediante el uso de un objeto "Toast".
+
+![image](https://user-images.githubusercontent.com/74801652/222605408-5e448da4-9876-4aea-aa37-22efdc99d04a.png)
+
 
 URL: https://github.com/Leoni23/ejercicio.git
 
