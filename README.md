@@ -5,8 +5,10 @@ El programa debe permitir:
 <li/>Consulta por el codigo.
 <li/>Consulta por la descripción.
 <li/>Borrado de un articulo ingresando su código.
-<li/>Modificación de la descripción y el precioj.
+<li/>Modificación de la descripción y el precio.
+
 # Implementación
+
 Estas importaciones son necesarias en un archivo de código fuente Java que define una actividad para una aplicación de Android que trabaja con una base de datos SQLite.
 Entre las mas importantes estan:
 "android.content.ContentValues" es una clase utilizada para almacenar un conjunto de valores que se pueden insertar en una base de datos.
